@@ -1,2 +1,4 @@
-# news-app
-This is news app created using React-JS
+#  Competitive Programming
+This repo is for helping newbies.
+Add important question of any lanuage in a folder
+
